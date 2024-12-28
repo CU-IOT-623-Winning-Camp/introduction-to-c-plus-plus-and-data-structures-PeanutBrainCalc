@@ -21,7 +21,7 @@ This project detects fraudulent transactions using Neural Networks. Additionally
 python -m venv venv
 venv\Scripts\activate
 ```
-- Install the [necessary libraries]() for this project in the virtual environment using the command:
+- Install the [necessary libraries](https://github.com/CU-IOT-623-Winning-Camp/introduction-to-c-plus-plus-and-data-structures-PeanutBrainCalc/blob/main/FraudDetectionWWC/requirements.txt) for this project in the virtual environment using the command:
 ` pip install pandas scikit-learn matplotlib seaborn tensorflow kaggle imbalanced-learn`
 
 These steps ensure that the environment base is setup for further evaluations of the project using python/ VS Code.
