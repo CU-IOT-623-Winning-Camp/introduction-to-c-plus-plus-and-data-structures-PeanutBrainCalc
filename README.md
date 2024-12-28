@@ -1,7 +1,7 @@
 # Fraud Detection System
 
 This project detects fraudulent transactions using Neural Networks. Additionally it displays the usage of Random Forest for Fraud Detection.
-![HeatMapRandomForest](https://github.com/CU-IOT-623-Winning-Camp/introduction-to-c-plus-plus-and-data-structures-PeanutBrainCalc/blob/main/FraudDetectionWWC/output/output.txt)
+![HeatMapRandomForest](https://github.com/CU-IOT-623-Winning-Camp/introduction-to-c-plus-plus-and-data-structures-PeanutBrainCalc/blob/main/FraudDetectionWWC/output/ResultantRandomForestCreditCardFigures.png)
 
 ## Datasets Used
 **[Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)** 
@@ -32,7 +32,7 @@ Ones done open the folder in VS Code or use the following command in the termina
 
 -- If required try replacing the the file paths wherever mentioned in the code to approprite paths according to file location in your remote device. For example: The file "CreditCardRandomForestScript.py" contains the codeline: `df = pd.read_csv('./creditcard.csv')` . So Make sure that the creditcard.csv is either present directly in the project folder or replace './creditcard.csv 'part  with the complete appropriate url of this file specific to your device.
 
-
+-- please unzip the train zip file inside the vehicle-loan-default-prediction file and consider downloading the creditcard.csv from the Credit Card Fraud Detection on kaggle.
 
 ## Steps Involved in Creation of this Project:
 - Load the dataset
