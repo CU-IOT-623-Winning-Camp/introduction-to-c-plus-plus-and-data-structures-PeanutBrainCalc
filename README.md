@@ -1,7 +1,7 @@
 # Fraud Detection System
 
 This project detects fraudulent transactions using Neural Networks. Additionally it displays the usage of Random Forest for Fraud Detection.
-![HeatMapRandomForest]()
+![HeatMapRandomForest](https://github.com/CU-IOT-623-Winning-Camp/introduction-to-c-plus-plus-and-data-structures-PeanutBrainCalc/blob/main/FraudDetectionWWC/output/output.txt)
 
 ## Datasets Used
 **[Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)** 
